@@ -1,7 +1,9 @@
-# test
+# professional readme generator
 
 
   ![License](https://img.shields.io/badge/License-Apache License 2.0%202.0-blue.svg)
+
+  [![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/uleqBb1IDMg)
 
 
   [![Watch the video](https://drive.google.com/file/d/1pAoRhXh0UCiht0mwwqcTA-31fTvC0eOw/view?usp=sharing)]
@@ -35,27 +37,27 @@
 
 ## Description:
 
-test
+generate professinal readme
 
 ## Installation :
 
 To install dependencies run:
-test
+npm i
 
 ## Usage Information :
 
-te
+generate readme
 
 ## Contributing: 
 
 You can contribute to this application by:
 
-t
+fork it
 
 ## Test :
 
 
-t
+npm test
 
 ## License :
 
@@ -67,8 +69,8 @@ Hi!
 Please feel free to contact me if you have any questions and     or feedback.
 
 
-*GIT-HUB:(https://github.com/tt)
+*GIT-HUB:(https://github.com/nbmc1991)
 
-*EMAIL :tt
+*EMAIL :nbmc1991@gmail.com
   
 
