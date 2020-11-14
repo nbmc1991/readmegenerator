@@ -18,7 +18,7 @@ function generateMarkdown(response) {
 
 [Installation](#installation)
 
-[Usage Information](#usage)
+[Usage](#usage)
 
 
 [Test](#test)
@@ -34,36 +34,36 @@ function generateMarkdown(response) {
 
 
 
-## Description:
+## Description
 
 ${response.description}
 
-## Installation :
+## Installation
 
 To install dependencies run:
 ${response.installation}
 
-## Usage Information :
+## Usage Information 
 
 ${response.usage}
 
-## Contributing: 
+## Contributing
 
 You can contribute to this application by:
 
 ${response.contributing}
 
-## Test :
+## Test 
 
 
 ${response.test}
 
-## License :
+## License 
 
  ${response.license}
 
 
-## Questions :
+## Questions 
 Hi! 
 Please feel free to contact me if you have any questions and     or feedback.
 
