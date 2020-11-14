@@ -57,12 +57,16 @@ const questions = [
         type: 'input',
         name: 'email',
         message: 'What is your email address?',
+        validate: (value)=> {
+            if(value){return true}
+            else{return 'Please give a value!'}
+        }
 
     },
         {
         type: 'checkbox',
         name: 'questions',
-        message: 'How can the user contact you shoudl they have questions?',
+        message: 'How can the user contact you should they have questions?',
         choices: ['Email','Github'],
         
     },

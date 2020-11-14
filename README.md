@@ -1,6 +1,6 @@
 # Title :professional README generator
 
-  ![License](https://img.shields.io/badge/License-MIT license%202.0-blue.svg)
+  ![License](https://img.shields.io/badge/License-Apache License 2.0%202.0-blue.svg)
 
 ##Table of Contents
 
@@ -14,15 +14,15 @@
 
 ## Description:
 
-this application will help developers quickly create professional readme
+generate READme
 
 ## Installation :
 To install dependencies run:
-npm i
+NPM I
 
 ## Usage :
 
-generate professional readme files
+gene read me
 
 ## Contributing: 
 
@@ -37,7 +37,7 @@ npm test
 
 ## License :
 
- MIT license
+ Apache License 2.0
 
 
 ## Questions :
@@ -45,8 +45,8 @@ Hi!
 Please feel free to contact me if you have any questions and     or feedback.
 
 
-###GIT-HUB:nbmc1991
+*GIT-HUB:nbmc1991
 
-###EMAIL :nbmc1991@gmail.com
+*EMAIL :nbmc1991@gmail.com
   
 
