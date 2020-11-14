@@ -1,8 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(response) {
-  return `# Title :${response.title}
+  return `# ${response.title}
 
-  ![License](https://img.shields.io/badge/License-${response.license}%202.0-blue.svg)
+  ![License](https://img.shields.io/badge/license-${response.license}-blue.svg)
 
 
 ##Table of Contents
@@ -63,7 +63,7 @@ Hi!
 Please feel free to contact me if you have any questions and     or feedback.
 
 
-*GIT-HUB:https://github.com/${response.username}
+*GIT-HUB:https://github.com/ ${response.username}
 
 *EMAIL :${response.email}
   

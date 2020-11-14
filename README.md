@@ -1,6 +1,6 @@
-# Title :test
+# professional readme generator
 
-  ![License](https://img.shields.io/badge/License-MIT license%202.0-blue.svg)
+  ![License](https://img.shields.io/badge/license-GNU Public License v3.0-blue.svg)
 
 
 ##Table of Contents
@@ -34,26 +34,26 @@ tst
 ## Installation :
 
 To install dependencies run:
-tst
+npm i
 
 ## Usage Information :
 
-tst
+read me
 
 ## Contributing: 
 
 You can contribute to this application by:
 
-tst
+for it
 
 ## Test :
 
 
-tst
+test
 
 ## License :
 
- MIT license
+ GNU Public License v3.0
 
 
 ## Questions :
@@ -61,8 +61,8 @@ Hi!
 Please feel free to contact me if you have any questions and     or feedback.
 
 
-*GIT-HUB:https://github.com/tst
+*GIT-HUB:https://github.com/ nbmc1991
 
-*EMAIL :tst
+*EMAIL :nbmc1991@gmail.com
   
 
