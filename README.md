@@ -1,7 +1,7 @@
-# professional README generator
+# prefessional README generator
 
 
-  ![License](https://img.shields.io/badge/License-MIT license%202.0-blue.svg)
+  ![License](https://img.shields.io/badge/License-GNU Public License v3.0%202.0-blue.svg)
 
 
 ## Table of Contents:
@@ -10,7 +10,7 @@
 [Description](#description)
 
 
-[Installation](#installation)
+[Installation](#installation                                                  )
 
 [Usage Information](#usage)
 
@@ -30,7 +30,7 @@
 
 ## Description:
 
-generate readme
+this app will help developers quickly create professional readme markdown files
 
 ## Installation :
 
@@ -39,7 +39,7 @@ npm i
 
 ## Usage Information :
 
-generate README
+generate professional README files
 
 ## Contributing: 
 
@@ -54,7 +54,7 @@ npm test
 
 ## License :
 
- MIT license
+ GNU Public License v3.0
 
 
 ## Questions :
@@ -62,7 +62,7 @@ Hi!
 Please feel free to contact me if you have any questions and     or feedback.
 
 
-*GIT-HUB:https://github.com/ nbmc1991
+*GIT-HUB:(https://github.com/nbmc1991)
 
 *EMAIL :nbmc1991@gmail.com
   

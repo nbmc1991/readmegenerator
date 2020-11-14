@@ -12,7 +12,7 @@ function generateMarkdown(response) {
 [Description](#description)
 
 
-[Installation](#installation)
+[Installation](#installation                                                  )
 
 [Usage Information](#usage)
 
@@ -64,7 +64,7 @@ Hi!
 Please feel free to contact me if you have any questions and     or feedback.
 
 
-*GIT-HUB:https://github.com/ ${response.username}
+*GIT-HUB:(https://github.com/${response.username})
 
 *EMAIL :${response.email}
   
