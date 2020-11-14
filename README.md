@@ -1,6 +1,6 @@
-# Title :prof read me
+# Title :PROFESSIONAL README GENERATOR
 
-  ![License](https://img.shields.io/badge/License-MIT license%202.0-blue.svg)
+  ![License](https://img.shields.io/badge/License-undefined%202.0-blue.svg)
 
   #Table of Contents
 
@@ -14,34 +14,34 @@
 
 ## Description:
 
-ok
+IT WILL HELP DEVELOPERS CREATING PROFESSIONAL READ ME FILES
 
 ## Installation :
 To install dependencies run:
-ok
+NPM I 
 
 ## Usage :
 
-ok
+GENERATE READ ME FILES
 
 ## Contributing: 
 
-ok
+FORK IT
 
 ## Test :
 
-ok
+NPM TEST
 
 ## License :
 
-MIT license
+// undefined
 
 
 ## Questions :
 Hi! 
 Please feel free to contact me if you have any questions and or feedback.
-# GIT-HUB:nbmc1991
+###GIT-HUB:NBMC1991
 
-# EMAIL :nbmc1991@gmail.com
+###EMAIL :NBMC1991@GMAIL.COM
   
 
