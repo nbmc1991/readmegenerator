@@ -1,9 +1,10 @@
-# professional readme generator
-
-  ![License](https://img.shields.io/badge/license-GNU Public License v3.0-blue.svg)
+# professional README generator
 
 
-##Table of Contents
+  ![License](https://img.shields.io/badge/License-MIT license%202.0-blue.svg)
+
+
+## Table of Contents:
 
 
 [Description](#description)
@@ -29,7 +30,7 @@
 
 ## Description:
 
-tst
+generate readme
 
 ## Installation :
 
@@ -38,22 +39,22 @@ npm i
 
 ## Usage Information :
 
-read me
+generate README
 
 ## Contributing: 
 
 You can contribute to this application by:
 
-for it
+fork it
 
 ## Test :
 
 
-test
+npm test
 
 ## License :
 
- GNU Public License v3.0
+ MIT license
 
 
 ## Questions :

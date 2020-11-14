@@ -2,10 +2,11 @@
 function generateMarkdown(response) {
   return `# ${response.title}
 
-  ![License](https://img.shields.io/badge/license-${response.license}-blue.svg)
+
+  ![License](https://img.shields.io/badge/License-${response.license}%202.0-blue.svg)
 
 
-##Table of Contents
+## Table of Contents:
 
 
 [Description](#description)
