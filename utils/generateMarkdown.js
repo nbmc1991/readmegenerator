@@ -5,10 +5,7 @@ function generateMarkdown(response) {
 
   ![License](https://img.shields.io/badge/License-${response.license}%202.0-blue.svg)
 
-  [![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/uleqBb1IDMg)
-
-
-  [![Watch the video](https://drive.google.com/file/d/1pAoRhXh0UCiht0mwwqcTA-31fTvC0eOw/view?usp=sharing)]
+  [![Alt text for your video](https://github.com/nbmc1991/readmegenerator/blob/main/visual/Screenshot%202020-11-14%20115702.png)](https://youtu.be/uleqBb1IDMg)
 
   ![](https://github.com/nbmc1991/readmegenerator/blob/main/visual/2020-11-13.png)
 
