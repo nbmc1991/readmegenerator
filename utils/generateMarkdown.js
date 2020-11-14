@@ -21,7 +21,7 @@ function generateMarkdown(response) {
 [Usage](#usage)
 
 
-[Test](#test)
+[Testing](#testing)
 
 
 [License](#license)
@@ -43,7 +43,7 @@ ${response.description}
 To install dependencies run:
 ${response.installation}
 
-## Usage Information 
+## Usage 
 
 ${response.usage}
 

@@ -1,7 +1,7 @@
-# test
+# read me prof
 
 
-  ![License](https://img.shields.io/badge/License-Boost Software License 1.0%202.0-blue.svg)
+  ![License](https://img.shields.io/badge/License-GNU Public License v3.0%202.0-blue.svg)
 
   [![Alt text for your video](https://github.com/nbmc1991/readmegenerator/blob/main/visual/Screenshot%202020-11-14%20115702.png)](https://youtu.be/uleqBb1IDMg)
 
@@ -19,7 +19,7 @@
 [Usage](#usage)
 
 
-[Test](#test)
+[Testing](#testing)
 
 
 [License](#license)
@@ -41,7 +41,7 @@ t
 To install dependencies run:
 t
 
-## Usage Information 
+## Usage 
 
 t
 
@@ -58,7 +58,7 @@ t
 
 ## License 
 
- Boost Software License 1.0
+ GNU Public License v3.0
 
 
 ## Questions 
