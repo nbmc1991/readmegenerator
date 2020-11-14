@@ -4,7 +4,7 @@
   ![License](https://img.shields.io/badge/License-Apache License 2.0%202.0-blue.svg)
 
 
-  ![](https://drive.google.com/file/d/1pAoRhXh0UCiht0mwwqcTA-31fTvC0eOw/view?usp=sharing)
+  [![Watch the video](https://drive.google.com/file/d/1pAoRhXh0UCiht0mwwqcTA-31fTvC0eOw/view?usp=sharing)]
 
   ![](https://github.com/nbmc1991/readmegenerator/blob/main/visual/2020-11-13.png)
 
@@ -44,18 +44,18 @@ test
 
 ## Usage Information :
 
-test
+te
 
 ## Contributing: 
 
 You can contribute to this application by:
 
-test
+t
 
 ## Test :
 
 
-test
+t
 
 ## License :
 
@@ -67,8 +67,8 @@ Hi!
 Please feel free to contact me if you have any questions and     or feedback.
 
 
-*GIT-HUB:(https://github.com/test)
+*GIT-HUB:(https://github.com/tt)
 
-*EMAIL :test
+*EMAIL :tt
   
 

@@ -6,7 +6,7 @@ function generateMarkdown(response) {
   ![License](https://img.shields.io/badge/License-${response.license}%202.0-blue.svg)
 
 
-  ![](https://drive.google.com/file/d/1pAoRhXh0UCiht0mwwqcTA-31fTvC0eOw/view?usp=sharing)
+  [![Watch the video](https://drive.google.com/file/d/1pAoRhXh0UCiht0mwwqcTA-31fTvC0eOw/view?usp=sharing)]
 
   ![](https://github.com/nbmc1991/readmegenerator/blob/main/visual/2020-11-13.png)
 
