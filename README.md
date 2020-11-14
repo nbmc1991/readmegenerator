@@ -1,37 +1,45 @@
-# Title :professional readme generator
+# Title :prof read me
+
+  ![License](https://img.shields.io/badge/License-MIT license%202.0-blue.svg)
 
   #Table of Contents
 
 
--[Description] (#description)
--[Installation] (#installation)
--[Test] (#test)
--[License] (#license)
--[Contributing](#contributing)
--[Questions] (#questions)
+[Description] (#description)
+[Installation] (#installation)
+[Test] (#test)
+[License] (#license)
+[Contributing](#contributing)
+[Questions] (#questions)
 
 ## Description:
-This applicatio will help developers create professional read me files
+
+ok
 
 ## Installation :
-npm i
+To install dependencies run:
+ok
 
 ## Usage :
-generate professional read me files
+
+ok
 
 ## Contributing: 
-fork app repo
+
+ok
 
 ## Test :
-npm test
+
+ok
 
 ## License :
-GNU Public License v3.0
+
+MIT license
 
 
 ## Questions :
 Hi! 
-Please feel free to contact me if you have any questions :)
+Please feel free to contact me if you have any questions and or feedback.
 # GIT-HUB:nbmc1991
 
 # EMAIL :nbmc1991@gmail.com
