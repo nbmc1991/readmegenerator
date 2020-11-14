@@ -1,9 +1,8 @@
-# Title :prof readme 
+# Title :test
 
-  ![License](https://img.shields.io/badge/License-Boost Software License 1.0%202.0-pink.svg)
-  ![License](https://img.shields.io/badge/License-Boost Software License 1.0%202.0-pink.svg)
+  ![License](https://img.shields.io/badge/License-MIT license%202.0-blue.svg)
 
-  
+
 ##Table of Contents
 
 
@@ -11,6 +10,8 @@
 
 
 [Installation](#installation)
+
+[Usage Information](#usage)
 
 
 [Test](#test)
@@ -28,30 +29,31 @@
 
 ## Description:
 
-ok
+tst
 
 ## Installation :
+
 To install dependencies run:
-test
+tst
 
-## Usage :
+## Usage Information :
 
-test
+tst
 
 ## Contributing: 
 
 You can contribute to this application by:
 
-test
+tst
 
 ## Test :
 
 
-test
+tst
 
 ## License :
 
- Boost Software License 1.0
+ MIT license
 
 
 ## Questions :
@@ -59,8 +61,8 @@ Hi!
 Please feel free to contact me if you have any questions and     or feedback.
 
 
-*GIT-HUB:tst
+*GIT-HUB:https://github.com/tst
 
-*EMAIL :test
+*EMAIL :tst
   
 
