@@ -1,47 +1,52 @@
-# Title :PROFESSIONAL README GENERATOR
+# Title :professional README generator
 
-  ![License](https://img.shields.io/badge/License-undefined%202.0-blue.svg)
+  ![License](https://img.shields.io/badge/License-MIT license%202.0-blue.svg)
 
-  #Table of Contents
+##Table of Contents
 
 
-[Description] (#description)
-[Installation] (#installation)
-[Test] (#test)
-[License] (#license)
+[Description](#description)
+[Installation](#installation)
+[Test](#test)
+[License](#license)
 [Contributing](#contributing)
-[Questions] (#questions)
+[Questions](#questions)
 
 ## Description:
 
-IT WILL HELP DEVELOPERS CREATING PROFESSIONAL READ ME FILES
+this application will help developers quickly create professional readme
 
 ## Installation :
 To install dependencies run:
-NPM I 
+npm i
 
 ## Usage :
 
-GENERATE READ ME FILES
+generate professional readme files
 
 ## Contributing: 
 
-FORK IT
+You can contribute to this application by:
+
+fork it
 
 ## Test :
 
-NPM TEST
+
+npm test
 
 ## License :
 
-// undefined
+ MIT license
 
 
 ## Questions :
 Hi! 
-Please feel free to contact me if you have any questions and or feedback.
-###GIT-HUB:NBMC1991
+Please feel free to contact me if you have any questions and     or feedback.
 
-###EMAIL :NBMC1991@GMAIL.COM
+
+###GIT-HUB:nbmc1991
+
+###EMAIL :nbmc1991@gmail.com
   
 

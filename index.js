@@ -42,11 +42,7 @@ const questions = [
         name: 'license',
         message: 'What license should your project have?',
         choices: ['Apache License 2.0','MIT license','GNU Public License v3.0','Boost Software License 1.0','None'],
-        when: function (answers){
-            return answers.licenseChoice ===true 
-            console.log(licenseChoice)
-           
-        }
+
     },
     {
         type: 'input',

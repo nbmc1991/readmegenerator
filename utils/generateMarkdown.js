@@ -4,15 +4,15 @@ function generateMarkdown(response) {
 
   ![License](https://img.shields.io/badge/License-${response.license}%202.0-blue.svg)
 
-  #Table of Contents
+##Table of Contents
 
 
-[Description] (#description)
-[Installation] (#installation)
-[Test] (#test)
-[License] (#license)
+[Description](#description)
+[Installation](#installation)
+[Test](#test)
+[License](#license)
 [Contributing](#contributing)
-[Questions] (#questions)
+[Questions](#questions)
 
 ## Description:
 
@@ -28,20 +28,25 @@ ${response.usage}
 
 ## Contributing: 
 
+You can contribute to this application by:
+
 ${response.contributing}
 
 ## Test :
+
 
 ${response.test}
 
 ## License :
 
-// ${response.license}
+ ${response.license}
 
 
 ## Questions :
 Hi! 
-Please feel free to contact me if you have any questions and or feedback.
+Please feel free to contact me if you have any questions and     or feedback.
+
+
 ###GIT-HUB:${response.username}
 
 ###EMAIL :${response.email}
