@@ -36,15 +36,15 @@ ${response.test}
 
 ## License :
 
-${response.license}
+// ${response.license}
 
 
 ## Questions :
 Hi! 
 Please feel free to contact me if you have any questions and or feedback.
-# GIT-HUB:${response.username}
+###GIT-HUB:${response.username}
 
-# EMAIL :${response.email}
+###EMAIL :${response.email}
   
 
 `
