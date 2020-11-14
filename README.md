@@ -1,7 +1,7 @@
-# read me prof
+# Professional README.md generator
 
 
-  ![License](https://img.shields.io/badge/License-GNU Public License v3.0%202.0-blue.svg)
+  ![License](https://img.shields.io/badge/License-MIT license%202.0-blue.svg)
 
   [![Alt text for your video](https://github.com/nbmc1991/readmegenerator/blob/main/visual/Screenshot%202020-11-14%20115702.png)](https://youtu.be/uleqBb1IDMg)
 
@@ -34,31 +34,31 @@
 
 ## Description
 
-t
+this application will help developers by quickly generating a professional README.md file so they can devote their time to making their actual project
 
 ## Installation
 
 To install dependencies run:
-t
+npm i 
 
 ## Usage 
 
-t
+to generate professional README.md
 
 ## Contributing
 
 You can contribute to this application by:
 
-t
+pull request
 
 ## Test 
 
 
-t
+npm test
 
 ## License 
 
- GNU Public License v3.0
+ MIT license
 
 
 ## Questions 
@@ -66,8 +66,8 @@ Hi!
 Please feel free to contact me if you have any questions and     or feedback.
 
 
-*GIT-HUB:(https://github.com/t)
+*GIT-HUB:(https://github.com/nbmc1991)
 
-*EMAIL :t
+*EMAIL :nbmc1991@gmail.com
   
 
