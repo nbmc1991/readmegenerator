@@ -1,43 +1,57 @@
-# Title :professional README generator
+# Title :prof readme 
 
-  ![License](https://img.shields.io/badge/License-Apache License 2.0%202.0-blue.svg)
+  ![License](https://img.shields.io/badge/License-Boost Software License 1.0%202.0-pink.svg)
+  ![License](https://img.shields.io/badge/License-Boost Software License 1.0%202.0-pink.svg)
 
+  
 ##Table of Contents
 
 
 [Description](#description)
+
+
 [Installation](#installation)
+
+
 [Test](#test)
+
+
 [License](#license)
+
+
 [Contributing](#contributing)
+
+
 [Questions](#questions)
+
+
 
 ## Description:
 
-generate READme
+ok
 
 ## Installation :
 To install dependencies run:
-NPM I
+test
 
 ## Usage :
 
-gene read me
+test
 
 ## Contributing: 
 
 You can contribute to this application by:
 
-fork it
+test
 
 ## Test :
 
 
-npm test
+test
 
 ## License :
 
- Apache License 2.0
+ Boost Software License 1.0
 
 
 ## Questions :
@@ -45,8 +59,8 @@ Hi!
 Please feel free to contact me if you have any questions and     or feedback.
 
 
-*GIT-HUB:nbmc1991
+*GIT-HUB:tst
 
-*EMAIL :nbmc1991@gmail.com
+*EMAIL :test
   
 
