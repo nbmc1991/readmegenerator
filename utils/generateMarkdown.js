@@ -17,13 +17,26 @@ ${response.description}
 
 ## Installation :
 ${response.installation}
-## Test :
-${response.test}
-## License :
+
+## Usage :
+${response.usage}
 
 ## Contributing: 
+${response.contributing}
+
+## Test :
+${response.test}
+
+## License :
+${response.license}
+
 
 ## Questions :
+Hi! 
+Please feel free to contact me if you have any questions :)
+# GIT-HUB:${response.username}
+
+# EMAIL :${response.email}
   
 
 `
